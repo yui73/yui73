@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-#### I am yui73 ~ [![](https://img.shields.io/badge/blog-yui73-pink.svg)]([linkUrl](https://yui73.github.io/))
+## I am yui73 ~ 
+
+### [![](https://img.shields.io/badge/blog-yui73-pink.svg)]([linkUrl](https://yui73.github.io/))
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
