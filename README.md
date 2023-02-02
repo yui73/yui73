@@ -1,8 +1,16 @@
 ### Hi there 👋
 
+[![yui73's GitHub stats](https://github-readme-stats.vercel.app/api?username=yui73)](https://github.com/yui73/github-readme-stats)
+
+[![yui73 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui73)](https://github.com/yui73/github-readme-stats)
+
 [![yui73's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yui73&theme=github)](https://github.com/yui73/github-readme-activity-graph)
 
-<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yui73&theme=xcode" /> </div> -->
+
+<!--
+ <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yui73&theme=xcode" /> </div>
+
+-->
 
 <!--
 **yui73/yui73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
