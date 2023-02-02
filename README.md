@@ -4,13 +4,26 @@
 
 ### [![](https://img.shields.io/badge/blog-yui73-pink.svg)]([linkUrl](https://yui73.github.io/))
 
+![](https://rishavanand.github.io/static/images/greetings.gif)
+
 -->
 
 <!-- ![yui73's Blog](https://img.shields.io/badge/blog-yui73-pink"):![yui73's Blog](https://yui73.github.io/) -->
 
-![](https://rishavanand.github.io/static/images/greetings.gif)
-
 <div align="center">
+
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+
+</div>
+
+
+ ### <div align="center">I'm Yui73, currently pursuing the master’s degree in Computer Science from ECNU. 👩‍💻</div>
+ 
+ <br />
+ 
+ ## My Status  
+ 
+ <div align="center">
 
  [![yui73's GitHub stats](https://github-readme-stats.vercel.app/api?username=yui73)](https://github.com/yui73/github-readme-stats)  [![yui73 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui73&hide=less,EJS)](https://github.com/yui73/github-readme-stats)
 
