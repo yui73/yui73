@@ -4,11 +4,7 @@
 
 ### [![](https://img.shields.io/badge/blog-yui73-pink.svg)]([linkUrl](https://yui73.github.io/))
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> 
 -->
-
-
 
 <!-- ![yui73's Blog](https://img.shields.io/badge/blog-yui73-pink"):![yui73's Blog](https://yui73.github.io/) -->
 
