@@ -1,15 +1,18 @@
-# Hi there 👋
+<!-- # Hi there 👋
 
 ## I am yui73 ~ 
 
 ### [![](https://img.shields.io/badge/blog-yui73-pink.svg)]([linkUrl](https://yui73.github.io/))
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> 
+-->
 
 
 
 <!-- ![yui73's Blog](https://img.shields.io/badge/blog-yui73-pink"):![yui73's Blog](https://yui73.github.io/) -->
+
+![](https://rishavanand.github.io/static/images/greetings.gif)
 
 <div align="center">
 
