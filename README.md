@@ -8,7 +8,7 @@
 
 -->
 
-<!-- ![yui73's Blog](https://img.shields.io/badge/blog-yui73-pink"):![yui73's Blog](https://yui73.github.io/)  , pursuing the master’s degree in Computer Science from ECNU-->
+
 
 <div align="center">
 
