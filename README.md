@@ -19,8 +19,6 @@
 
  ### <div align="center">I'm Yui73. 👩‍💻</div>
  
- nihao~
- 
  <br />
  
  ## My Status  
