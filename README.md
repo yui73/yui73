@@ -27,13 +27,13 @@
 
  [![yui73's GitHub stats](https://github-readme-stats.vercel.app/api?username=yui73)](https://github.com/yui73/github-readme-stats)  [![yui73 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui73&hide=less,EJS)](https://github.com/yui73/github-readme-stats)
 
- [![yui73's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yui73&theme=minimal)](https://github.com/yui73/github-readme-activity-graph)
 
 </div>
 
 
 
 <!--
+ [![yui73's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yui73&theme=minimal)](https://github.com/yui73/github-readme-activity-graph)
 
  <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yui73&theme=xcode" /> </div>
 
