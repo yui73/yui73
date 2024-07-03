@@ -1,34 +1,19 @@
-<!-- # Hi there 👋
+<h1 align="center">Hi there👋 This is Yui73 👩‍💻</h1>
+    <p align="center">
+        <a href="https://yui73.github.io/">
+            Blog</a><span> · </span>
+        <a href="https://yui73.github.io/about/">
+            About
+        </a>
+    </p>
 
-## I am yui73 ~ 
+## My Status  
 
-### [![](https://img.shields.io/badge/blog-yui73-pink.svg)]([linkUrl](https://yui73.github.io/))
+<img src="https://github-readme-stats.vercel.app/api?username=yui73" height="300"/>
 
-![](https://rishavanand.github.io/static/images/greetings.gif)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yui73" height="300"/>
 
--->
-
-
-
-<div align="center">
-
- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
-
-</div>
-
-
- ### <div align="center">I'm Yui73. 👩‍💻</div>
- 
- <br />
- 
- ## My Status  
- 
- <div align="center">
-
- [![yui73's GitHub stats](https://github-readme-stats.vercel.app/api?username=yui73)](https://github.com/yui73/github-readme-stats)  [![yui73 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui73&hide=less,EJS)](https://github.com/yui73/github-readme-stats)
-
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yui73&theme=github-light" height="300"/>
 
 
 
@@ -36,6 +21,15 @@
  [![yui73's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yui73&theme=minimal)](https://github.com/yui73/github-readme-activity-graph)
 
  <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yui73&theme=xcode" /> </div>
+
+ [![yui73's GitHub stats](https://github-readme-stats.vercel.app/api?username=yui73)](https://github.com/yui73/github-readme-stats)
+
+ [![yui73 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui73&hide=less,EJS)](https://github.com/yui73/github-readme-stats)
+
+
+
+[![yui73's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yui73&theme=dracula)](https://github.com/yui73/github-readme-activity-graph)
+
 
 -->
 
