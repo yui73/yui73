@@ -10,14 +10,17 @@
 ## My Status  
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yui73" width="250" height="200" style="padding-left:20"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yui73" width="180" height="200"/>
+<div style="display:flex;justify-content: center;align-items: center">
+    <div style="margin:10px">
+        <img src="https://github-readme-stats.vercel.app/api?username=yui73"/>
+    </div>
+    <div style="margin:10px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yui73"/>
+    </div>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yui73&theme=github-light" width="450" height="300"/>
+<div style="display:flex;justify-content: center;align-items: center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yui73&theme=github-light"/>
 </div>
 
 
