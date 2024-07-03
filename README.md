@@ -9,15 +9,11 @@
 
 ## My Status  
 
-
 <div style="display:flex;justify-content: center;align-items: center">
-    <div style="margin:10px">
-        <img src="https://github-readme-stats.vercel.app/api?username=yui73"/>
-    </div>
-    <div style="margin:10px">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yui73"/>
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=yui73"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yui73"/>
 </div>
+
 
 <div style="display:flex;justify-content: center;align-items: center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yui73&theme=github-light"/>
