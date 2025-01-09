@@ -18,7 +18,9 @@
 
 <p align="center">
     <img alt="Yui73's Github chart" src="https://ghchart.rshah.org/yui73" />
-    
+</p>
+
+<p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yui73&theme=github-light"/>
 </p>
 
